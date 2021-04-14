@@ -1,0 +1,60 @@
+html {
+	background: url("https://cdn.dribbble.com/users/626415/screenshots/11136335/media/0aaf1885e9e3c9fafcbb0b53b133fc9e.png?compress=1&resize=800x600") no-repeat center fixed;
+	background-size: cover;
+}	
+
+form{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #212021;
+	border-radius: 25px;
+	padding: 15px;
+	background-color: #212021;
+} 
+
+.wrapper {
+	float: right;
+	padding: 15px;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-family: Verdana, Helvetica, sans-serif;
+
+}
+
+.name, .dob, select, button {
+	border-radius: 7px;
+}
+
+button{
+	margin-top: 25px;
+	color: #445275;
+	padding: 3px 15px 3px 15px;
+	
+}
+
+h4{
+	color:#c390f5;
+	font-family: Garamond, Times, serif;
+}
+
+
+
+label{
+	color: #fff;
+}
+
+input{
+	padding: 3px;
+}
+
+.name{
+	width: 97%;
+	margin: 5px;
+}
+
+
+
